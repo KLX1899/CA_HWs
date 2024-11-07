@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4" pages="4">
   <diagram name="3_a" id="22U59bu8f_X8Lov9uzZY">
     <mxGraphModel dx="1544" dy="380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -785,6 +785,44 @@
         </mxCell>
         <mxCell id="7ZfoY5y6-u2EVlnCuCaT-91" value="رقم دهگان" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="WtvTezQJduUU5cAM_9_v" name="4_b">
+    <mxGraphModel dx="574" dy="304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iqox0x8GzB4sudc0-N-v-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=-5;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="SqUh15C9orahUrI67gD2-1" target="iqox0x8GzB4sudc0-N-v-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SqUh15C9orahUrI67gD2-1" value="Mux" style="shadow=0;dashed=0;align=center;html=1;strokeWidth=1;shape=mxgraph.electrical.abstract.mux2;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="120" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iqox0x8GzB4sudc0-N-v-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="396.03" y="76" width="92.64999999999998" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="iqox0x8GzB4sudc0-N-v-2" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.opto_electronics.7_segment_display;pointerEvents=1;fillColor=none;" vertex="1" parent="iqox0x8GzB4sudc0-N-v-1">
+          <mxGeometry x="8.970000000000027" y="49" width="74.7" height="96.1" as="geometry" />
+        </mxCell>
+        <mxCell id="iqox0x8GzB4sudc0-N-v-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;direction=south;" vertex="1" parent="iqox0x8GzB4sudc0-N-v-1">
+          <mxGeometry y="30" width="92.65" height="138" as="geometry" />
+        </mxCell>
+        <mxCell id="iqox0x8GzB4sudc0-N-v-4" value="BCD 7 segment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="iqox0x8GzB4sudc0-N-v-1">
+          <mxGeometry x="1.32000000000005" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iqox0x8GzB4sudc0-N-v-5" value="رقم یکان" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="306" y="142" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iqox0x8GzB4sudc0-N-v-6" value="a&lt;sub&gt;0&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="238" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iqox0x8GzB4sudc0-N-v-7" value="0000" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="133" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iqox0x8GzB4sudc0-N-v-13" value="0101" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="186" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
